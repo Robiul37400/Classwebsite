@@ -3,16 +3,22 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_20230524_114639.jpg
 ---
 
 :::{#me}
 
 ## Goals
-
+ My research goal is to be an expert in controlled and semi-controlled environments agriculture.
+ 
+ 
 ## Education
+I received my Bachelor of Science in Agriculture (Hons.) and Master of Science in Agronomy from the Bangladesh Agricultural University (BAU).
+
 
 ## Experience
+
+I have more than 6 years of research experience in Soil Science and Agronomy. 
 
 :::
 
